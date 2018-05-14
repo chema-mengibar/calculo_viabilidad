@@ -57,13 +57,6 @@ def calculateTir( tAprox, periodos, ii, fc ):
 
 # -------------------------------------------------
 
-'''
-Cuando el van salga negativo no es conveniente realizar la inversion
-Un valor positivo del VAN nos esta diciendo que, ademas del rendimiento minimo esperado
-
-Cuando el tir es mayor a cero, el proyecto devuelve el capital invertido, mas una ganancia adicional
-'''
-
 num_periodos = 5
 inversion_inicial = 35000
 costes      = [ 7500, 7500, 7500, 7500, 7500 ]
