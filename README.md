@@ -1,6 +1,12 @@
 # calculo_viabilidad
 Formulas para el calculo del VAN, TIR  y ROI
 
+Cuando el van salga negativo no es conveniente realizar la inversion
+Un valor positivo del VAN nos esta diciendo que, ademas del rendimiento minimo esperado
+
+Cuando el tir es mayor a cero, el proyecto devuelve el capital invertido, mas una ganancia adicional
+
+
 # Parametros:
 
 + num_periodos = 5
